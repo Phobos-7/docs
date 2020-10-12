@@ -117,7 +117,7 @@ To use this method:
   :Server: The server where the package will send the challenge response files,
     e.g. ``sftp://x.x.x.x``
 
-    .. note:: This method supports supports ``sftp://`` and ``ftps://`` servers.
+    .. note:: This method supports ``sftp://`` and ``ftps://`` servers.
 
   :Username/password: Credentials for the SFTP/FTPS account
   :Folder: *Full path* to the target directory including
